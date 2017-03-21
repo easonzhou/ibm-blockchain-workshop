@@ -5,7 +5,7 @@ IBM blockchain workshop on bluemix
 ## Agenda
 0.	Share Github repo which contains all the lab materials
 
-	Please access [ibm.biz/IBM-Workshop](ibm-blockchain-workshop)
+	Please access [ibm.biz/IBM-Workshop](https://ibm.biz/IBM-Workshop)
 
 1.	Topic 1 (60 mins) - Apply blockchain to business network 
 	a.	Deploy demo on car lease scenario
