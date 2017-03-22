@@ -2,24 +2,25 @@
 IBM blockchain workshop on bluemix
 
 
-## Agenda0.	Share Github repo which contains all the lab materials1.	Topic 1 (60 mins) - Apply blockchain to business network
+## Agenda0.	Share Github repo which contains all the lab materials1. Topic 1 (15 mins) - An example of blockchain network in the real world use case.2.	Topic 2 (60 mins) - Apply blockchain to business network
 	a.	Deploy demo on car lease scenario
 		b.	During deployment, we do the presentation on car lease use case (30 mins)
 		c.	After deployment finishes, Work through the demo (30 mins)
-	2.	Topic 2 (30 mins) - Explore blockchain using car lease dashboard
+	3.	Topic 3 (30 mins) - Explore blockchain using car lease dashboard
 		a.	Review network, participants, membership service
 				b.	Review API talking to blockchain, access block data, transaction data
 				c. 	Review logs
-	3.	Break: 15 mins
-4.	Topic 3 (75 mins) - Write your first chaincode
+	4.	Topic 4 (75 mins) - Write your first chaincode
 	a.	What is chaincode?
 		b.	How do I implement chaincode?
 		c.	What dependencies exist?
 		d.	What are the major functions?
 		e.	How do I pass different values to my arguments?
 		f.	How do I securely enroll a user on my network?
-		g.	How do I compile my chaincode?
-		h.	How do I interact with my chaincode through the REST API?
+			g.	How do I interact with my chaincode through the REST API?
+	
+	h.	How do I compile my chaincode? (optional)
+
 	
 
 ## Further References 
