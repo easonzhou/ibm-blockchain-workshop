@@ -15,6 +15,8 @@ IBM blockchain workshop on bluemix
 				b.	Review API talking to blockchain, access block data, transaction data
 				c. 	Review logs
 	4.	Topic 4 (75 mins) - Write your first chaincode
+
+	Fork the project - [example02](https://github.com/IBM-Blockchain/example02)
 	a.	What is chaincode?
 		b.	How do I implement chaincode?
 		c.	What dependencies exist?
